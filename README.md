@@ -1,6 +1,8 @@
 # OpenCV Project Generator
 Project File Generator for OpenCV (Windows)
 
+![OpenCVProjectGenerator](screenshot.png)
+
 ## How to use
 1. Run OpenCVProjectGenerator.exe
 2. Select OpenCV location.
