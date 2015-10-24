@@ -1,0 +1,4 @@
+3.0	300	basefile_for_opencv_3.0	\build\x64\vc12\bin\opencv_world300.dll
+2.4.11	2411	basefile_for_opencv_2.4.11	\build\x64\vc12\bin\opencv_core2411.dll
+2.4.10	2410	basefile_for_opencv_2.4.10	\build\x64\vc12\bin\opencv_core2410.dll
+2.4.9	249	basefile_for_opencv_2.4.9	\build\x64\vc12\bin\opencv_core249.dll
